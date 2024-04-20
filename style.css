@@ -1,0 +1,13 @@
+.container{
+    background-image: url(https://www.apple.com/v/iphone-15/c/images/meta/iphone-15_specs__z2qrcyx7srmm_og.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.abc{
+    color: black;
+}
+.eee{
+    color: black;
+}
